@@ -1,3 +1,5 @@
+Ve el proyecto live aquí: [Ver Notebook en nbviewer](https://nbviewer.org/github/ain0soy110/analisis-de-taxis-chicago/blob/main/taxis-chicago.ipynb)
+
 Análisis del Impacto de Factores Externos en el Servicio de Transporte de Pasajeros en Chicago
 
 Este proyecto de análisis predictivo y estadístico examina el comportamiento de los viajes en taxi en la ciudad de Chicago utilizando conjuntos de datos consolidados mediante consultas SQL. El objetivo principal es identificar patrones de demanda en los principales distritos comerciales, evaluar la competitividad y cuota de mercado de las empresas de transporte, y validar estadísticamente el impacto de las condiciones climáticas adversas en la duración de los traslados hacia nodos de conectividad clave.
