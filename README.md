@@ -1,4 +1,4 @@
-**Ve el proyecto live aquí: [Ver Notebook en nbviewer](https://nbviewer.org/github/ain0soy110/analisis-de-taxis-chicago/blob/main/taxis-chicago.ipynb)
+Ve el proyecto live aquí: [Ver Notebook en nbviewer](https://nbviewer.org/github/ain0soy110/analisis-de-taxis-chicago/blob/main/taxis-chicago.ipynb)
 
 Análisis del Impacto de Factores Externos en el Servicio de Transporte de Pasajeros en Chicago
 
